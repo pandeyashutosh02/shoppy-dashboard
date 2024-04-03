@@ -65,13 +65,13 @@ const Navbar = () => {
           >
             <img
               className="rounded-full w-8 h-8"
-              src='https://i.ibb.co/VWXKjDP/image.pnge'
+              src='https://ibb.co/DDft1DL'
               alt="user-profile"
             />
             <p>
               <span className="text-gray-400 text-14">Hi,</span>{' '}
               <span className="text-gray-400 font-bold ml-1 text-14">
-                Shiv kant
+                Ashutosh
               </span>
             </p>
             <MdKeyboardArrowDown className="text-gray-400 text-14" />
