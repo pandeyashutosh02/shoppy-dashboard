@@ -80,5 +80,5 @@ The repository structure is organized as follows:
 
 ## Credits
 
-This project was inspired by the needs of e-commerce businesses and developed by Shiv Kant. Feel free to reach out for any inquiries or feedback.
+This project was inspired by the needs of e-commerce businesses and developed by Ashutosh Pandey. Feel free to reach out for any inquiries or feedback.
 
