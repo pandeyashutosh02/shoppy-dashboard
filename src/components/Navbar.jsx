@@ -65,7 +65,7 @@ const Navbar = () => {
           >
             <img
               className="rounded-full w-8 h-8"
-              src='https://ibb.co/DDft1DL'
+              src="https://i.ibb.co/hRFygRC/myphoto.png" 
               alt="user-profile"
             />
             <p>
